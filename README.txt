@@ -1,3 +1,7 @@
+Lithium_policegarage et un script FiveM comme son nom l'indique c'est un incroyable ✨ garage pour le PDP voila tout et explique la juste en bas  aller bonsoir 👋
+
+›(～￣▽￣)～
+
 -Pour modifier les choses suivante
 -c'est dans le CONFIG.LUA
 
